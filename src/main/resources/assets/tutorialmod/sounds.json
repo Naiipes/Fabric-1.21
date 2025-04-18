@@ -1,0 +1,22 @@
+{
+  "alien_block_step": {
+    "subtitle": "sounds.tutorialmod.alien_block_step",
+    "sounds": [
+      "tutorialmod:alien_block_step"
+    ]
+  },
+
+  "alien_block_place": {
+    "subtitle": "sounds.tutorialmod.alien_block_place",
+    "sounds": [
+      "tutorialmod:alien_block_place"
+    ]
+  },
+
+  "alien_block_break": {
+    "subtitle": "sounds.tutorialmod.alien_block_break",
+    "sounds": [
+      "tutorialmod:alien_block_break"
+    ]
+  }
+}
